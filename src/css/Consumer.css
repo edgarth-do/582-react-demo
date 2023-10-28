@@ -1,0 +1,40 @@
+.consumer-view {
+
+    div.up {
+        width: 100%;
+        height: 50px;
+        background: #475464;
+        border-color: 1px solid #475464;
+        margin-bottom: 25px !important;
+    }
+
+
+    div.bottom {
+        width: 100%;
+        height: 50px;
+        background: #475464;
+        border-color: 1px solid #475464;
+        margin-top: 270px !important;
+    }
+
+    div.box {
+        margin: 0 auto;
+        width: 130px;
+        height: 130px;
+        background-color: aliceblue !important;
+        margin-left: 40px !important;
+        margin-right: 40px !important;
+    }
+}
+
+div.consumer-view>h1 {
+    text-align: center !important;
+}
+
+div.consumer-view>a {
+    padding-top: 25px !important;
+    text-align: center !important;
+    color: #000 !important;
+    font-weight: bold;
+    margin-left: 48% !important;
+}
